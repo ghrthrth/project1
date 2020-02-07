@@ -1,0 +1,1 @@
+INSERT INTO responses VALUES (1, 'test', 21);
